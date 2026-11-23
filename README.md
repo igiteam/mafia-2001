@@ -10,9 +10,14 @@ Mafia is a 2002 action-adventure game set in a fictional American city of Lost H
 
 
 ## Base of Gameplay
-[![This Mod Remasters Mafia 1](https://img.youtube.com/vi/kM2_GyK_mP0/maxresdefault.jpg)](https://ytembed.macosxjs.com/?a00yX0d5S19tUDA)
+[![This Mod Remasters Mafia 1](https://raw.githubusercontent.com/igiteam/mafia-2001/refs/heads/master/Mafia_Gameplay.jpg)](https://ytembed.macosxjs.com/?a00yX0d5S19tUDA)
 
 [![Mafia 2001 engine tutorials](https://i.ytimg.com/vi/5BzBkkFqqzU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDt0Eill8SGnADB1Xg7jsPDLW4eKQ)](https://www.youtube.com/playlist?list=PLb8oNKiUbnjEOt1UAQvIii1GkvhR35oha)
+
+[![Mafia](https://raw.githubusercontent.com/igiteam/mafia-2001/refs/heads/master/Mafia-Classic-gog.jpg)](https://raw.githubusercontent.com/igiteam/mafia-2001/refs/heads/master/Mafia-Classic-gog.jpg)
+
+[![Mafia - First Person Mod](https://img.youtube.com/vi/Y_OletVr8mQ/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WV9PbGV0VnI4bVE)
+
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -29,8 +34,7 @@ Mafia is a 2002 action-adventure game set in a fictional American city of Lost H
 
 [https://www.moddb.com/games/mafia/tutorials](https://www.moddb.com/games/mafia/tutorials)
 
-
-
+[![Mafia 2001](https://raw.githubusercontent.com/igiteam/mafia-2001/refs/heads/master/mafia-2001.jpg)](https://archive.org/details/mafia-2001)
 
 
 # Mafia-RE
